@@ -1,7 +1,7 @@
 {
-  "name": "comunitats.cat",
-  "version": "1.1.0",
-  "description": "Comunitats.CAT site",
+  "name": "comunidades.es.python.org",
+  "version": "1.0.0",
+  "description": "Comunidades PythonES site",
   "main": "src/index.js",
   "scripts": {
     "start": "parcel src/index.html -d docs",
