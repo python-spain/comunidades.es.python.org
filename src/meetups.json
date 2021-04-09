@@ -12,51 +12,88 @@
       "bgColor":"yellow"
    },
    {
-      "name":"Software Crafters Girona",
-      "meetupId":"Software-Crafters-Girona",
+      "name":"Python Alicante",
+      "meetupId":"python_alc",
       "color":"#ffffff",
       "bgColor":"blue"
    },
    {
-      "name":"GDG Girona",
-      "meetupId":"GDG-Girona",
+      "name":"PyData Madrid",
+      "meetupId":"PyData-Madrid",
       "color":"#ffffff",
       "bgColor":"green"
    },
    {
-      "name":"Femme Inline",
-      "meetupId":"Femme-Inline",
+      "name":"PyData Mallorca",
+      "meetupId":"PyData-Mallorca",
       "color":"#ffffff",
       "bgColor":"salmon"
    },
    {
-      "name":"Digitals Girona",
-      "meetupId":"associacio-digitals-girona",
+      "name":"PyData Salamanca",
+      "meetupId":"PyData-Salamanca",
       "color":"#ffffff",
       "bgColor":"brown"
    },
    {
-      "name":"Girona WordPress",
-      "meetupId":"Girona-WordPress-Meetup",
+      "name":"PyLadies BCN",
+      "meetupId":"PyLadies-BCN",
       "color":"#ffffff",
       "bgColor":"darkslateblue"
    },
    {
-      "name":"SEO Girona",
-      "meetupId":"SEO-Girona",
+      "name":"PyLadies Madrid",
+      "meetupId":"PyLadiesMadrid",
       "color":"#ffffff",
-      "bgColor":"greenyellow"
+      "bgColor":"maroon"
    },
    {
-      "name":"PyData",
-      "meetupId":"PyData-Salamanca",
+      "name":"Python Almeria",
+      "meetupId":"Python-Almeria",
       "color":"#ffffff",
       "bgColor":"purple"
    },
    {
-      "name":"API Addicts BCN",
-      "meetupId":"APIAddictsBCN",
+      "name":"Python Córdoba",
+      "meetupId":"Meetup-de-Python-en-Cordoba",
       "color":"#ffffff",
       "bgColor":"darkcyan"
-   }
+   },
+   {
+      "name":"Python Madrid",
+      "meetupId":"python-madrid",
+      "color":"#ffffff",
+      "bgColor":"orange"
+   },
+   {
+      "name":"Python Málaga",
+      "meetupId":"python_malaga",
+      "color":"#ffffff",
+      "bgColor":"orange"
+   },
+   {
+      "name":"Python Mallorca",
+      "meetupId":"Mallorca-Python-Meetup",
+      "color":"#ffffff",
+      "bgColor":"aqua"
+   },
+   {
+      "name":"PyData Mallorca",
+      "meetupId":"PyData-Mallorca",
+      "color":"#ffffff",
+      "bgColor":"teal"
+   },
+   {
+      "name":"Python Sevilla",
+      "meetupId":"Python-Sevilla",
+      "color":"#ffffff",
+      "bgColor":"olive"
+   },
+   {
+      "name":"Python Valencia",
+      "meetupId":"Python-Valencia-Meetup",
+      "color":"#ffffff",
+      "bgColor":"greenyellow"
+      
+   }   
 ]
