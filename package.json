@@ -25,6 +25,7 @@
     "last 1 Chrome versions"
   ],
   "devDependencies": {
+    "cssnano": "^4.1.11",
     "parcel": "^1.12.4"
   }
 }
